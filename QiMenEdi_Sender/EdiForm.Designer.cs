@@ -1,6 +1,6 @@
 ﻿namespace QiMenEdi_Sender
 {
-    partial class Form1
+    partial class EdiForm
     {
         /// <summary>
         /// 必需的设计器变量。

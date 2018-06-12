@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace QiMenEdi_Sender
 {
-    public partial class Form1 : Form
+    public partial class EdiForm : Form
     {
-        public Form1()
+        public EdiForm()
         {
             InitializeComponent();
         }
